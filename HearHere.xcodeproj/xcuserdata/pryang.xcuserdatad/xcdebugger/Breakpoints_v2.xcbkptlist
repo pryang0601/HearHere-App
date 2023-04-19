@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A79AC7E-A38D-41EC-8A16-E3F2F0CE88C0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5124A307-1E46-4AF1-83B8-BB5327FC674E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bluetooth/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "printSound()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF793A6E-4622-4C92-8103-527510635E15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HearHere/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "printSound()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF793A6E-4622-4C92-8103-527510635E15 - e601c32b93017a79"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HearHere.ViewController.printSound() -&gt; ()"
+                  moduleName = "HearHere"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pryang/Documents/APP/Bluetooth/bluetooth/HearHere/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "736">
+               </Location>
+               <Location
+                  uuid = "CF793A6E-4622-4C92-8103-527510635E15 - 6a64f05942f1f926"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HearHere.ViewController.printSound() -&gt; ()"
+                  moduleName = "HearHere"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pryang/Documents/APP/Bluetooth/bluetooth/HearHere/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "652">
+               </Location>
+               <Location
+                  uuid = "CF793A6E-4622-4C92-8103-527510635E15 - e601c32b93017d60"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HearHere.ViewController.printSound() -&gt; ()"
+                  moduleName = "HearHere"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pryang/Documents/APP/Bluetooth/bluetooth/HearHere/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "CF793A6E-4622-4C92-8103-527510635E15 - 6a64f05942f1fe83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in HearHere.ViewController.printSound() -&gt; ()"
+                  moduleName = "HearHere"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pryang/Documents/APP/Bluetooth/bluetooth/HearHere/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "500">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
